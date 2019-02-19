@@ -142,3 +142,4 @@ bottom pins is GND, SCL, SDA
 
 Allows flashing over wifi and single step the code with gdb
 https://github.com/Ebiroll/esp32_blackmagic
+# Rak811_lora
